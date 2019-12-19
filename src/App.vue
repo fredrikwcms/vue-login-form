@@ -2,7 +2,7 @@
   <div id="app">
     <nav class="nav">
       <router-link to="/home">Home</router-link> |
-    <router-link to="/log-in">Login</router-link> |<router-link to="/signup">Sign Up</router-link>
+    <router-link to="/log-in">Login</router-link> |<router-link to="/sign-up">Sign Up</router-link>
     <button @click="logout">Logout</button>
 
     </nav>
